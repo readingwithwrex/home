@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weihansun88
+- 👋 Hi, I’m @wrex
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning cs50
 - 💞️ I’m looking to collaborate on my website www.readingwithwrex.com
